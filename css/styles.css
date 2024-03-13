@@ -696,6 +696,7 @@ progress {
 .row-cols-1 > * {
   flex: 0 0 auto;
   width: 100%;
+
 }
 
 .row-cols-2 > * {
@@ -11731,4 +11732,10 @@ html {
     width: 1.5vw;
     left: -2vw;
   }
+}
+
+.awsCertificate{
+    width: 105px
+
+
 }
